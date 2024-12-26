@@ -8,7 +8,6 @@ fn main() {
         println!("Neither alphabetic nor numeric!");
     }
 
-    // Example with an emoji.
     let your_character = '🦀';
 
     if your_character.is_alphabetic() {

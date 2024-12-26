@@ -5,6 +5,5 @@ fn call_me(num: u8) {
 }
 
 fn main() {
-    // `call_me` expects an argument.
     call_me(5);
 }
